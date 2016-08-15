@@ -3,8 +3,8 @@
 
 ## 运行截图1
 ![image](https://github.com/liuhongjun719/TestImage/blob/master/Images/1.png)
-![image](https://github.com/liuhongjun719/TestImage/blob/master/TestImage/screenshots/2.png)
-![image](https://github.com/liuhongjun719/TestImage/blob/master/TestImage/screenshots/3.png)
+![image](https://github.com/liuhongjun719/TestImage/blob/master/TestImage/Images/2.png)
+![image](https://github.com/liuhongjun719/TestImage/blob/master/TestImage/Images/3.png)
 
 
 
