@@ -1,9 +1,9 @@
 # TestImage
 测试上传图片
 
-![image](https://github.com/liuhongjun719/TestImage/blob/master/Images/1.png)
+![image](https://github.com/liuhongjun719/TestImage/blob/master/Images/1.png =200x200)
 
-![image](https://github.com/liuhongjun719/TestImage/blob/master/TestImage/screenshots//2.png)
+![image](https://github.com/liuhongjun719/TestImage/blob/master/TestImage/screenshots/2.png)
 
 
 
