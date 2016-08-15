@@ -2,7 +2,7 @@
 测试上传图片
 
 ## 运行截图1
-![image](https://github.com/liuhongjun719/TestImage/blob/master/Images/1.png"mmmmmmmmmmm")
+![image](https://github.com/liuhongjun719/TestImage/blob/master/Images/1.png)
 ![image](https://github.com/liuhongjun719/TestImage/blob/master/Images/2.png)
 ![image](https://github.com/liuhongjun719/TestImage/blob/master/Images/3.png)
 ![image](https://github.com/liuhongjun719/TestImage/blob/master/Images/4.png)
